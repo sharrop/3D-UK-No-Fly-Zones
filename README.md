@@ -1,9 +1,11 @@
 # 3D Visualisation of UK No-Fly Zones
-A browser-based 3D map to browse UK government defined no-fly zones.
+A browser-based 3D map to explore UK government defined no-fly zones:
+![UK No Fly Zones](docs\UK-No-Fly-Zones.png "UK No Fly Zones")
+![No Fly Zone Close-Up](docs\No-Fly-Close-Up.png "No Fly Zone Close-Up")
 
 # Sources/Research
 - https://www.dji.com/uk/flysafe/geo-map  
-DJI’s GEO System delineates where it is safe to fly, where flight may raise concerns, and where flight is restricted. GEO zones that prohibit flight are implemented around locations such as airports, power plants, and prisons. They are also implemented temporarily around major stadium events, forest fires, or other emergency situations. Certain GEO zones don’t prohibit flight, but do trigger warnings that inform users of potential risks.
+  DJI’s GEO System delineates where it is safe to fly, where flight may raise concerns, and where flight is restricted. GEO zones that prohibit flight are implemented around locations such as airports, power plants, and prisons. They are also implemented temporarily around major stadium events, forest fires, or other emergency situations. Certain GEO zones don’t prohibit flight, but do trigger warnings that inform users of potential risks.
 - **Civil Aviation Authority (CAA)**:  
   - https://register-drones.caa.co.uk/drone-code/where-you-can-fly
   - https://www.caa.co.uk/drones/
