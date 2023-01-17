@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.w3.org/2005/Atom" xmlns:ns3="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+	<Document>
+		<description>
+			Created by &lt;a href="mailto:stephen.harrop@vodafone.com"&gt; Flightpath Proposal &lt;/a&gt; on 2023-02-01 08:53:30br/&gt;
+		</description>
+		<TimeSpan>
+			<begin>
+				2023-02-01T00:00:00Z
+			</begin>
+			<end>
+				2023-02-01T00:00:00Z
+			</end>
+		</TimeSpan>
+		<Style id="flight">
+			<LineStyle>
+				<color>
+					14FF00E6
+				</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>
+					148F00FF
+				</color>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>
+				Proposed Flightpath
+			</name>
+			<Folder>
+				<name>
+					Flight
+				</name>
+				<Placemark>
+					<name>
+						Proposed Flightpath: Application VOD-123
+					</name>
+					<description>
+						&lt;table border="1" cellpadding="1" cellspacing="0" row_id="959" txt_name="NEWBURY HQ"&gt;&lt;tr&gt;&lt;td&gt;501918N 0053042W -&lt;br/&gt;502400N 0053900W -&lt;br/&gt;503200N 0053400W -&lt;br/&gt;503930N 0052400W -&lt;br/&gt;504300N 0051230W -&lt;br/&gt;503830N 0050430W -&lt;br/&gt;501918N 0053042W &lt;br/&gt;Upper limit: 1000 FT MSL&lt;br/&gt;Lower limit: SFC  &lt;br/&gt;Class: &lt;/td&gt;&lt;td&gt;Activity: Ordnance, Munitions and Explosives.&lt;br/&gt;&lt;br/&gt;Service: DACS: Culdrose APP on 134.050 MHz when open; at other times DAAIS: London Information on 124.750 MHz.&lt;br/&gt;&lt;br/&gt;Contact: Pre-flight information / Booking: Culdrose Operations, Tel: 01326-552415.&lt;br/&gt;&lt;br/&gt;Danger Area Authority: HQ Navy.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+					</description>
+					<styleUrl>
+						#rdpStyleMap
+					</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<altitudeMode>
+								relativeToGround
+							</altitudeMode>
+							<outerBoundaryIs>
+								<LinearRing>
+									<altitudeMode>
+										relativeToGround
+									</altitudeMode>
+									<coordinates>
+                                        -1.3193544721266903,51.41460232534442, 2000000,
+                                        -1.3203317308651492,51.414516480599076, 2000000,
+                                        -1.3201445376423067,51.41443235259186, 2000000,
+                                        -1.319954591577698,51.41434994133334, 2000000,
+                                        -1.3197563869877342,51.414270963737124, 2000000,
+                                        -1.3195719466066294,51.41421087199666, 2000000,
+                                        -1.3194012704320244,51.414169666186325, 2000000,
+                                        -1.3191782902693205,51.41410957431265, 2000000,
+                                        -1.3193544721266903,51.41460232534442, 2000000
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Document>
+</kml>
