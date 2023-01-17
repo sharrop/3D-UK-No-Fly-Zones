@@ -1,7 +1,7 @@
 # 3D Visualisation of UK No-Fly Zones
 A browser-based 3D map to explore UK government defined no-fly zones:
-![UK No Fly Zones](docs\UK-No-Fly-Zones.png "UK No Fly Zones")
-![No Fly Zone Close-Up](docs\No-Fly-Close-Up.png "No Fly Zone Close-Up")
+![UK No Fly Zones](docs/UK-No-Fly-Zones.png "UK No Fly Zones")
+![No Fly Zone Close-Up](docs/No-Fly-Close-Up.png "No Fly Zone Close-Up")
 
 # Sources/Research
 - https://www.dji.com/uk/flysafe/geo-map  
