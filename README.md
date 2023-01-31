@@ -15,3 +15,20 @@ A browser-based 3D map to explore UK government defined no-fly zones:
 - **Unofficial webisites with 2D representations**:
   - https://www.noflydrones.co.uk/
   - https://www.dronesdirectory.co.uk/no-fly-zones
+
+# Instructions
+1. Clone this repository
+2. Open a terminal window (Start button followed by typing ```cmd``` and hitting return)
+3. Make sure you are in this local directory (the one with the ```index.htm``` file)
+4. Type:
+   ```
+   python -m http.server 80 
+   ```
+   This runs a Web Server on your local PC (using port 80) that serves up the files from this directory
+5. Open a web browser on the same PC (such as Chrome or Edge)
+6. In the URL window, type:
+   ```
+   http://localhost
+   ```
+   This should bring up the 3D view of the world. You can pan and zoom, and select the red no-fly zones for details of each.
+7. When you are finished, go back to the terminal window and hit ```CTRL-C``` to terminate the Web Server.
